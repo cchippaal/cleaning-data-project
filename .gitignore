@@ -6,3 +6,12 @@
 
 # R data files from past sessions
 .Rdata
+.Rproj.user
+
+.DS_Store
+
+#don't include output in repo
+tidyagg.txt
+
+#don't include data in repo
+data
